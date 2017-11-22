@@ -15,17 +15,16 @@ Powerful shell for rapidly deploying your WordPress projects.
 * `cd clearcom` and then `npm install` and then `bower install` (you'll need gulp install as well)
 * `gulp watch` will enable `livereload` and development version
 * `gulp build` for distribute version with minified `js` and `css` files
-* NOTE: `src` and `dist` folders can live happily together inside the same folder (`html5blank`) that in the `theme` folder. You'll have two different instances of the theme within `Appearance > Themes` panel inside the admin
+* NOTE: `src` and `dist` folders can live happily together inside the same folder (`clearCOM`) that in the `theme` folder. You'll have two different instances of the theme within `Appearance > Themes` panel inside the admin
 
 
-## Get involved! Make HTML5 Blank better
+## Get involved! Make clearCOM better
 
-There are a few ways to get involved, submit a Pull Request, or submit a comment on the website - [html5blank.com](http://html5blank.com)
+There are a few ways to get involved, submit a Pull Request, or submit a comment on the website - [webtechetc.com](http://webtechetc.com)
 
 ## Features
 
-### HTML5
-* Basic Semantic HTML5 Markup
+### clearCOM* Basic Semantic clearCOM Markup
 * W3C Valid Code Foundations
 * Responsive Ready, ViewPort meta data
 * HTML Class support for IE7, IE8, IE9 Conditionals (HTML5 Boilerplate)
