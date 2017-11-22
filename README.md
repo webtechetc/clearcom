@@ -5,7 +5,7 @@ Powerful shell for rapidly deploying your WordPress projects.
 * Project: [https://github.com/webtechetc/clearcom](https://github.com/webtechetc/clearcom)
 * Website: [webtechetc.com](http://webtechetc.com)
 * Twitter: [@webtechetc](http://twitter.com/webtechetc)
-* Author : [WebTechETC](https://github.com/webtechetc/clearcom) // [@toddmotto](http://twitter.com/toddmotto)
+* Author : [WebTechETC](https://github.com/webtechetc/clearcom) // [@webtechetc](http://twitter.com/webtechetc)
 
 
 ## Getting Started with ClearCOM
